@@ -648,6 +648,7 @@ non-exhaustive list:
 
 * [`maps_in`][]
 * [`nested`][]
+* [`kafine_maps`][]
 * [`mapz`][] (the reference implementation of this EEP)
 
 ### Pattern Matching
@@ -814,6 +815,9 @@ Open Questions
 
 [`nested`]: https://github.com/odo/nested
     "nested library by Odronitz, Bader & Huning"
+
+[`kafine_maps`]: https://github.com/happening-oss/kafine/blob/0.7.0/src/kafine_maps.erl
+    "kafine_maps library, part of Kafine Kafka client"
 
 [`mapz`]: https://github.com/eproxus/mapz
     "mapz library by Adam Lindberg"
